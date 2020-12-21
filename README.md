@@ -1,6 +1,7 @@
 # flutterando_basic
 
-A new Flutter project.
+Projeto que reflete os conhecimentos adquiridos no curso básico de flutter do canal Flutterando
+https://www.youtube.com/channel/UCplT2lzN6MHlVHHLt6so39A
 
 ## Getting Started
 
